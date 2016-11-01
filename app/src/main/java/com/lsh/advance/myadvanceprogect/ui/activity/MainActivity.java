@@ -18,7 +18,11 @@ import rx.Observable;
 import rx.Subscriber;
 import rx.functions.Action1;
 
+/**
+ * test for github
+ */
 public class MainActivity extends AppCompatActivity {
+
     @Bind(R.id.btn_click)
     Button btnClick;
     private String TAG;
